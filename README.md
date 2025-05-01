@@ -8,8 +8,6 @@
 
 # maidr: Multimodal Access and Interactive Data Representation
 
-Here is a refined version of your message:
-
 > ⚠️ **Deprecation Notice**: This repository is no longer maintained. Development has moved to our new [maidr](https://github.com/xability/maidr) architecture, now written in TypeScript. Please follow and contribute there.
 
 
